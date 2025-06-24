@@ -1,0 +1,43 @@
+/* Black */
+@font-face {
+  font-family: 'Satoshi-Black';
+  src: url('../font/Satoshi-Black.woff2') format('woff2'),
+       url('../font/Satoshi-Black.woff') format('woff'),
+       url('../font/Satoshi-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Black Italic */
+@font-face {
+  font-family: 'Satoshi-BlackItalic';
+  src: url('../font/Satoshi-BlackItalic.woff2') format('woff2'),
+       url('../font/Satoshi-BlackItalic.woff') format('woff'),
+       url('../font/Satoshi-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Satoshi-Bold';
+  src: url('../font/Satoshi-Bold.woff2') format('woff2'),
+       url('../font/Satoshi-Bold.woff') format('woff'),
+       url('../font/Satoshi-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bold Italic */
+@font-face {
+  font-family: 'Satoshi-BoldItalic';
+  src: url('../font/Satoshi-BoldItalic.woff2') format('woff2'),
+       url('../font/Satoshi-BoldItalic.woff') format('woff'),
+       url('../font/Satoshi-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
